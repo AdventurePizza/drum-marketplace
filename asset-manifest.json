@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drum-marketplace/static/css/main.2cd2a037.chunk.css",
+    "main.js": "/drum-marketplace/static/js/main.6d4f4b19.chunk.js",
+    "main.js.map": "/drum-marketplace/static/js/main.6d4f4b19.chunk.js.map",
+    "runtime-main.js": "/drum-marketplace/static/js/runtime-main.e439265c.js",
+    "runtime-main.js.map": "/drum-marketplace/static/js/runtime-main.e439265c.js.map",
+    "static/js/2.c3682c40.chunk.js": "/drum-marketplace/static/js/2.c3682c40.chunk.js",
+    "static/js/2.c3682c40.chunk.js.map": "/drum-marketplace/static/js/2.c3682c40.chunk.js.map",
+    "static/js/3.1f557449.chunk.js": "/drum-marketplace/static/js/3.1f557449.chunk.js",
+    "static/js/3.1f557449.chunk.js.map": "/drum-marketplace/static/js/3.1f557449.chunk.js.map",
+    "index.html": "/drum-marketplace/index.html",
+    "static/css/main.2cd2a037.chunk.css.map": "/drum-marketplace/static/css/main.2cd2a037.chunk.css.map",
+    "static/js/2.c3682c40.chunk.js.LICENSE.txt": "/drum-marketplace/static/js/2.c3682c40.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/drum-marketplace/static/media/Inconsolata-Regular.ed7f6e5b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e439265c.js",
+    "static/js/2.c3682c40.chunk.js",
+    "static/css/main.2cd2a037.chunk.css",
+    "static/js/main.6d4f4b19.chunk.js"
+  ]
+}
